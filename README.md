@@ -9,4 +9,4 @@ Repository zum Hosten des Codes für den Zugversuch im NwT Unterricht.
 ### 1.5.0
 first release
 ### latest Version
-ˋ1.5.0ˋ
+`1.5.0`
